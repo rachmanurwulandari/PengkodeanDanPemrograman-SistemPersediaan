@@ -1,41 +1,64 @@
-<p align="center"><a href="https://mbahjiwo.com" target="_blank"><img src="https://github.com/farisfaikar/mbah-jiwo/assets/87220004/05e3285d-f757-461d-a446-fe1d424f88cb" width="100" alt="Laravel Logo"></a></p>
-<h1 align="center">Mbah Jiwo</h1>
+# TAMPILAN BARU #
+![Screenshot 2024-04-14 211956](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/e91c2488-d97d-41a1-a6e7-84ace73dc4b1)
 
-<p align="center">
-<a href="https://github.com/farisfaikar/mbah-jiwo"><img src="https://img.shields.io/github/stars/farisfaikar/mbah-jiwo.svg?style=social" alt="Stars"></a>
-<img src="https://komarev.com/ghpvc/?username=farisfaikar&repo=mbah-jiwo&label=Repository%20views&color=0e75b6&style=flat" alt="Repository Views">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# UTS PENGKODEAN DAN PEMROGRAMAN #
+<p>(Referensi Github : <a href="https://github.com/farisfaikar/mbah-jiwo.git">Klik Disini</a>)</p>
 
-# Deskripsi
-Aplikasi Manajemen Toko Berbasis Web ini adalah sebuah sistem informasi yang dirancang untuk membantu pengelolaan barang, penjualan, dan keuangan pada toko secara efektif dan efisien. Aplikasi ini akan memberikan kemudahan bagi pemilik toko untuk mengelola stok barang, memonitor penjualan, serta mengatur keuangan dengan lebih mudah. Dengan demikian, aplikasi Manajemen Toko Berbasis Web ini dapat membantu pemilik toko untuk mengoptimalkan kinerja toko serta meningkatkan keuntungan bisnis.
+<table align="center">
+  <tr><td>Nama</td><td>Rachma Nur Wulandari</td></tr> 
+  <tr><td>NIM</td><td>12030122120003</td></tr>
+  <tr><td>Mata Kuliah</td><td>Pengkodean dan Pemrograman</td></tr>
+  <tr><td>Dosen</td><td>Dr. Totok Dewayanto, SE., M.Si, Ak, CA</td></tr>
+</table>
 
-# Fitur
-Pengelolaan Offline dan Online:
-Fitur ini memungkinkan pemilik toko untuk mengelola toko fisik dan toko online dari satu platform yang sama. Dengan adanya fitur ini, pemilik toko dapat mengatur dan memperbaharui persediaan barang dan harga, mengelola pesanan, dan memantau keuangan toko baik yang datang dari penjualan offline maupun online.
+## Aplikasi MBAH JIWO #
+Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik toko untuk mengelola toko mereka secara lebih efektif dan efisien. Aplikasi ini dapat membantu pemilik toko untuk:
+- Mengelola stok barang dengan lebih akurat dan tepat waktu, sehingga dapat mencegah terjadinya kehabisan stok atau kelebihan stok.
+- Melacak penjualan dengan lebih detail, sehingga dapat mengetahui produk apa saja yang paling laris dan produk apa saja yang perlu dipromosikan.
+- Mengatur keuangan dengan lebih terkendali, sehingga dapat menghindari pengeluaran yang tidak perlu.
+Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko dan meningkatkan keuntungan bisnis.
 
-## Manajemen Barang
-Manajemen Stok Barang: Aplikasi ini menyediakan fitur yang memungkinkan pengguna untuk mengelola stok barang dengan mudah. Pengguna dapat menambahkan atau menghapus barang, serta mengubah informasi barang seperti nama, harga, dan jumlah stok yang tersedia.
+# PERBEDAAN SEBELUM DAN SESUDAH PERUBAHAN
+## BERANDA
+### Sebelum
+![Screenshot (1068)](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/b035eb0b-c603-4b4a-aef4-86df8f30fed8)
+### Sesudah
+![Screenshot 2024-04-14 211956](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/487da7c6-7206-40e3-9fc4-0bf6e4fbef5d)
+#### PENJELASAN PERBEDAAN = 
+1. Mbah Jiwo menjadi Aplikasi Mbah Jiwo
+2. Warna tampilan yang tadinya bewarna #383956 menjadi #2f5e6a
+3. Font yang tadinya Raleway menjadi Georgia
+   
+## Inventory
+### Sebelum
+![Screenshot (1071)](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/9d16dcf9-ebce-472b-ac31-238e18d5ff0c)
+### Sesudah
+![Screenshot 2024-04-14 221758](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/c772b72f-2a0a-42e5-b616-fe2126666809)
+#### PENJELASAN PERBEDAAN = 
+1. Warna tampilan yang tadinya bewarna #383956 menjadi #2f5e6a
+2. Font yang tadinya Raleway menjadi Georgia
+3. Inventory menjadi Persediaan
+4. ID menjadi NO
+5. Aksi menjadi Perubahan
+6. Delete menjadi Hapus
 
-## Manajemen Keuangan
-Fitur ini memungkinkan pemilik toko untuk mengelola keuangan toko seperti laporan keuangan, penerimaan dan pengeluaran, dan manajemen akun. Dengan adanya fitur ini, pemilik toko dapat memantau dan mengelola transaksi keuangan, membuat laporan keuangan, dan mengetahui laba rugi toko.
+## Finance
+### Sebelum
+![Screenshot (1072)](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/e4133b18-0554-48da-a4e4-beb40d6a65f5)
+### Sesudah 
+![Screenshot 2024-04-14 221814](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/863dbfa8-21e8-4383-8f19-a1e07bdb7eaf)
+#### PENJELASAN PERBEDAAN = 
+1. Warna tampilan yang tadinya bewarna #383956 menjadi #2f5e6a
+2. Font yang tadinya Raleway menjadi Georgia
+3. Finance menjadi Keuangan
+4. Pengeluaran dan Pemasukan dibalik karena sebelumnya salah penempatan dan membuat perusahaan mengalami kerugian, sehingga perubahan dilakukan agar perusahaan mendapatkan keuntungan.
+5. Dan tabel pie chart ditingkatkan dati 300px menjadi 320px agar pie chart dapat terlihat semua.
 
-## Manajemen Penjualan
-Fitur ini memungkinkan pemilik toko untuk melihat dan mengelola penjualan baik yang dilakukan secara offline maupun online. Dengan adanya fitur ini, pemilik toko dapat memantau laporan penjualan, mengelola pesanan, dan melacak pengiriman barang.
+## DESIGNER phpMyAdmin
+![Screenshot (2015)](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/29065431-8ba4-4a16-9760-25a1b88125cc)
 
-## Manajemen Karyawan
-Fitur ini memungkinkan pemilik toko untuk mengelola karyawan seperti pembuatan jadwal kerja, manajemen absensi, dan penggajian karyawan. Dengan adanya fitur ini, pemilik toko dapat memperbaharui jadwal kerja, mengetahui absensi karyawan, dan menghitung gaji karyawan.
+## FLOWCHART APLIKASI MBAH JIWO
+![FLOWCHART SISTEM INFORMASI AKUNTANSI_RACHMA NUR W_12030122120003](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/a5e04e70-2956-4e43-b793-6669185dd4c3)
 
-## Program Promosi
-Fitur ini memungkinkan pemilik toko untuk membuat program promosi, menambahkan diskon dan potongan harga, serta membuat kode kupon. Dengan adanya fitur ini, pemilik toko dapat menarik konsumen dan meningkatkan penjualan dengan memberikan promo atau diskon yang menarik.
+## ERD APLIKASI MBAH JIWO
 
-## Opsi Digital Payment
-Fitur ini memungkinkan konsumen untuk membayar menggunakan metode pembayaran digital seperti transfer bank, kartu kredit, atau e-wallet. Dengan adanya fitur ini, pemilik toko dapat meningkatkan efisiensi transaksi dan memberikan kemudahan bagi konsumen dalam melakukan pembayaran.
-
-### Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
