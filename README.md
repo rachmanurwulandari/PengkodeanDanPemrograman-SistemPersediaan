@@ -1,5 +1,5 @@
 # TAMPILAN BARU #
-![Screenshot 2024-04-14 211956](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/e91c2488-d97d-41a1-a6e7-84ace73dc4b1)
+![Screenshot 2024-04-16 215658](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/86163b82-50ea-41c9-b4cc-5e54c28cd346)
 
 # UTS PENGKODEAN DAN PEMROGRAMAN #
 </teks>
