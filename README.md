@@ -2,6 +2,7 @@
 ![Screenshot 2024-04-14 211956](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/e91c2488-d97d-41a1-a6e7-84ace73dc4b1)
 
 # UTS PENGKODEAN DAN PEMROGRAMAN #
+</teks>
 <p>(Referensi Github : <a href="https://github.com/farisfaikar/mbah-jiwo.git">Klik Disini</a>)</p>
 
 <table align="center">
@@ -12,11 +13,11 @@
 </table>
 
 ## Aplikasi MBAH JIWO #
-Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik toko untuk mengelola toko mereka secara lebih efektif dan efisien. Aplikasi ini dapat membantu pemilik toko untuk:
-- Mengelola stok barang dengan lebih akurat dan tepat waktu, sehingga dapat mencegah terjadinya kehabisan stok atau kelebihan stok.
-- Melacak penjualan dengan lebih detail, sehingga dapat mengetahui produk apa saja yang paling laris dan produk apa saja yang perlu dipromosikan.
-- Mengatur keuangan dengan lebih terkendali, sehingga dapat menghindari pengeluaran yang tidak perlu.
-Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko dan meningkatkan keuntungan bisnis.
+Aplikasi Mbah Jiwo Berbasis Web adalah sebuah sistem yang membantu mengelola toko secara lebih efektif dan efisien. Aplikasi ini dapat membantu pemilik toko untuk dapat:
+- Mengelola stok barang dengan lebih akurat dan tepat waktu, sehingga dapat mencegah terjadinya kesalahan pencatatan stok
+- Mencatat penjualan dengan lebih detail, sehingga dapat mengetahui produk apa saja yang paling laris dan produk apa saja yang perlu dipromosikan.
+- Mengatur keuangan persediaan dengan lebih terkendali, sehingga dapat menghindari pengeluaran berlebihan.
+Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko secara efektif dan efisien dalam mengatur persediaan dan meningkatkan keuntungan bisnis.
 
 # PERBEDAAN SEBELUM DAN SESUDAH PERUBAHAN
 ## BERANDA
@@ -55,10 +56,11 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 5. Dan tabel pie chart ditingkatkan dati 300px menjadi 320px agar pie chart dapat terlihat semua.
 
 ## DESIGNER phpMyAdmin
-![Screenshot (2015)](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/29065431-8ba4-4a16-9760-25a1b88125cc)
+![DESIGN APLIKASI MBAH JIWO](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/346dad1f-36e6-4883-bf60-3c09a11e1f41)
 
 ## FLOWCHART APLIKASI MBAH JIWO
 ![FLOWCHART SISTEM INFORMASI AKUNTANSI_RACHMA NUR W_12030122120003](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/a5e04e70-2956-4e43-b793-6669185dd4c3)
 
 ## ERD APLIKASI MBAH JIWO
+![ERD APLIKASI MBAH JIWO](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/3b4667ac-2eb2-40b1-b8bd-a4f6eacad585)
 
