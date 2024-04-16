@@ -8,6 +8,7 @@
 <table align="center">
   <tr><td>Nama</td><td>Rachma Nur Wulandari</td></tr> 
   <tr><td>NIM</td><td>12030122120003</td></tr>
+  <tr><td>KELAS</td><td>E</td></tr>
   <tr><td>Mata Kuliah</td><td>Pengkodean dan Pemrograman</td></tr>
   <tr><td>Dosen</td><td>Dr. Totok Dewayanto, SE., M.Si, Ak, CA</td></tr>
 </table>
