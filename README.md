@@ -25,7 +25,7 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ### Sebelum
 ![Screenshot (1068)](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/b035eb0b-c603-4b4a-aef4-86df8f30fed8)
 ### Sesudah
-![Screenshot 2024-04-14 211956](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/487da7c6-7206-40e3-9fc4-0bf6e4fbef5d)
+![Screenshot 2024-04-16 215323](https://github.com/rachmanurwulandari/PengkodeanDanPemrograman-SistemPersediaan/assets/152131726/a6e41cc3-55ee-40d9-9253-7fd95dd6f4c6)
 #### PENJELASAN PERBEDAAN = 
 1. Mbah Jiwo menjadi Aplikasi Mbah Jiwo
 2. Warna tampilan yang tadinya bewarna #383956 menjadi #2f5e6a
